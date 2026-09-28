@@ -1,2 +1,3 @@
-hindsight-client
-groq
+   hindsight-client
+   groq
+   streamlit
